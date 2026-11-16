@@ -1,0 +1,203 @@
+Statement,LineItem,Year,Value,LineItem_raw,YoY_Growth,Missing_Flag,Outlier_Z,Outlier_Flag
+Balance Sheet,Cash,2024,3219.8,Cash,,FALSE,,FALSE
+Balance Sheet,Entry multiple,2024,,Entry multiple,,TRUE,,FALSE
+Balance Sheet,Exit multiple,2024,,Exit multiple ,,TRUE,,FALSE
+Balance Sheet,Financing mix,2024,,Financing mix,,TRUE,,FALSE
+Balance Sheet,Interest rates,2024,,Interest rates,,TRUE,,FALSE
+Balance Sheet,Lease liabilities,2024,10536.7,Lease liabilities,,FALSE,,FALSE
+Balance Sheet,Long-Term Debt,2024,14575.9,Long-term debt,,FALSE,,FALSE
+Balance Sheet,Net debt,2024,23391.7,Net debt,,FALSE,,FALSE
+Balance Sheet,Purchase price,2024,,Purchase price,,TRUE,,FALSE
+Balance Sheet,Shares outstanding,2024,1133.5,Shares outstanding,,FALSE,,FALSE
+Balance Sheet,Short-term debt,2024,1498.9,Short-term debt,,FALSE,,FALSE
+Balance Sheet,Total Equity,2024,-8096.6,Equity,,FALSE,,FALSE
+Cash Flow,Buybacks,2019,,Buybacks,,TRUE,,FALSE
+Cash Flow,Buybacks,2020,-4013,Buybacks,,FALSE,-6.561740524,TRUE
+Cash Flow,Buybacks,2021,-984.4,Buybacks,-0.754697234,FALSE,0.6745,FALSE
+Cash Flow,Buybacks,2022,-1266.7,Buybacks,0.286773669,FALSE,0,FALSE
+Cash Flow,Buybacks,2023,,Buybacks,0,TRUE,,FALSE
+Cash Flow,Capex,2019,-1470,Capex,,FALSE,1.214012818,FALSE
+Cash Flow,Capex,2020,-1841.3,Capex,0.252585034,FALSE,0.6745,FALSE
+Cash Flow,Capex,2021,-2333.6,Capex,0.267365448,FALSE,-0.040830353,FALSE
+Cash Flow,Capex,2022,-2777.5,Capex,0.190221118,FALSE,-0.685833692,FALSE
+Cash Flow,Capex,2023,-2305.5,Capex,-0.169936994,FALSE,0,FALSE
+Cash Flow,Cash from operations,2019,5989.1,Cash from operations,,FALSE,0,FALSE
+Cash Flow,Cash from operations,2020,4397.3,Cash from operations,-0.265782839,FALSE,-10.0814,TRUE
+Cash Flow,Cash from operations,2021,6008.7,Cash from operations,0.366452141,FALSE,0.124133333,FALSE
+Cash Flow,Cash from operations,2022,6095.6,Cash from operations,0.014462363,FALSE,0.6745,FALSE
+Cash Flow,Cash from operations,2023,4747.5,Cash from operations,-0.221159525,FALSE,-7.863466667,TRUE
+Cash Flow,D&A (CF),2019,1524.1,D&A addback,,FALSE,-0.056743651,FALSE
+Cash Flow,D&A (CF),2020,1529.4,D&A addback,0.003477462,FALSE,0,FALSE
+Cash Flow,D&A (CF),2021,1450.3,D&A addback,-0.051719629,FALSE,-0.846872222,FALSE
+Cash Flow,D&A (CF),2022,1592.4,D&A addback,0.097979728,FALSE,0.6745,FALSE
+Cash Flow,D&A (CF),2023,1771.5,D&A addback,0.112471741,FALSE,2.592007143,FALSE
+Cash Flow,Debt Issued/(Repaid),2019,,Debt issuance,,TRUE,,FALSE
+Cash Flow,Debt Issued/(Repaid),2019,-1250,Debt repayment,,FALSE,-0.204369167,FALSE
+Cash Flow,Debt Issued/(Repaid),2020,1498.1,Debt issuance,-2.19848,FALSE,2.042138468,FALSE
+Cash Flow,Debt Issued/(Repaid),2020,-1000,Debt repayment,-1.667512182,FALSE,0,FALSE
+Cash Flow,Debt Issued/(Repaid),2021,1497.8,Debt issuance,-2.4978,FALSE,2.041893225,FALSE
+Cash Flow,Debt Issued/(Repaid),2021,-1000,Debt repayment,-1.667645881,FALSE,0,FALSE
+Cash Flow,Debt Issued/(Repaid),2022,1995.3,Debt issuance,-2.9953,FALSE,2.448587868,FALSE
+Cash Flow,Debt Issued/(Repaid),2022,-1825.1,Debt repayment,-1.914699544,FALSE,-0.6745,FALSE
+Cash Flow,Debt Issued/(Repaid),2023,1748.5,Debt issuance,-1.958029697,FALSE,2.246834626,FALSE
+Cash Flow,Debt Issued/(Repaid),2023,-1250,Debt repayment,-1.714898484,FALSE,-0.204369167,FALSE
+Cash Flow,Dividends,2019,-2119,Dividends,,FALSE,0.57762819,FALSE
+Cash Flow,Dividends,2020,-2263.3,Dividends,0.06809816,FALSE,0,FALSE
+Cash Flow,Dividends,2021,-2431.8,Dividends,0.074448814,FALSE,-0.6745,FALSE
+Cash Flow,Dividends,2022,-2585,Dividends,0.062998602,FALSE,-1.287754599,FALSE
+Cash Flow,Dividends,2023,2771.4,Dividends,-2.072108317,FALSE,20.15373976,TRUE
+Cash Flow,Net Income,2019,4200.3,Net income,,FALSE,0.6745,FALSE
+Cash Flow,Net Income,2020,3283.4,Net income,-0.218293931,FALSE,-0.737484132,FALSE
+Cash Flow,Net Income,2021,4124.7,Net income,0.2562283,FALSE,0.558079452,FALSE
+Cash Flow,Net Income,2022,3762.3,Net income,-0.087860935,FALSE,0,FALSE
+Cash Flow,Net Income,2023,1856.7,Net income,-0.506498684,FALSE,-2.934536986,FALSE
+Cash Flow,SBC,2019,319.1,Stock comp,,FALSE,0.72846,FALSE
+Cash Flow,SBC,2020,271.5,Stock comp,-0.149169539,FALSE,-2.48216,FALSE
+Cash Flow,SBC,2021,302.7,Stock comp,0.114917127,FALSE,-0.37772,FALSE
+Cash Flow,SBC,2022,308.3,Stock comp,0.018500165,FALSE,0,FALSE
+Cash Flow,SBC,2023,318.3,Stock comp,0.032435939,FALSE,0.6745,FALSE
+Cash Flow,Unlevered FCF,2019,,Free cash flow,,TRUE,,FALSE
+Cash Flow,Unlevered FCF,2020,,Free cash flow,,TRUE,,FALSE
+Cash Flow,Unlevered FCF,2021,,Free cash flow,,TRUE,,FALSE
+Cash Flow,Unlevered FCF,2022,,Free cash flow,,TRUE,,FALSE
+Cash Flow,Unlevered FCF,2023,,Free cash flow,,TRUE,,FALSE
+Cash Flow,ΔNWC,2019,,Change in NWC,,TRUE,,FALSE
+Cash Flow,ΔNWC,2020,,Change in NWC,,TRUE,,FALSE
+Cash Flow,ΔNWC,2021,,Change in NWC,,TRUE,,FALSE
+Cash Flow,ΔNWC,2022,,Change in NWC,,TRUE,,FALSE
+Cash Flow,ΔNWC,2023,,Change in NWC,,TRUE,,FALSE
+Income Statement,COGS,2019,8738.7,COGS,,FALSE,-3.448621336,FALSE
+Income Statement,COGS,2020,10317.4,COGS,0.180656162,FALSE,-1.219071189,FALSE
+Income Statement,COGS,2021,11409.1,COGS,0.105811542,FALSE,0.322703622,FALSE
+Income Statement,COGS,2022,11180.6,COGS,-0.020027872,FALSE,0,FALSE
+Income Statement,COGS,2023,11658.2,COGS,0.042716849,FALSE,0.6745,FALSE
+Income Statement,D&A,2019,1441.7,D&A,,FALSE,-0.06463524,FALSE
+Income Statement,D&A,2020,1447.9,D&A,0.004300479,FALSE,0,FALSE
+Income Statement,D&A,2021,1362.6,D&A,-0.058912908,FALSE,-0.889255796,FALSE
+Income Statement,D&A,2022,1512.6,D&A,0.110083664,FALSE,0.6745,FALSE
+Income Statement,D&A,2023,1684.7,D&A,0.113777601,FALSE,2.46864915,FALSE
+Income Statement,Diluted EPS,2019,3.54,Diluted EPS,,FALSE,0.574574074,FALSE
+Income Statement,Diluted EPS,2020,2.83,Diluted EPS,-0.200564972,FALSE,-1.199111111,FALSE
+Income Statement,Diluted EPS,2021,3.58,Diluted EPS,0.265017668,FALSE,0.6745,FALSE
+Income Statement,Diluted EPS,2022,3.31,Diluted EPS,-0.075418994,FALSE,0,FALSE
+Income Statement,Diluted EPS,2023,1.63,Diluted EPS,-0.50755287,FALSE,-4.196888889,TRUE
+Income Statement,Diluted shares,2019,1185.5,Diluted shares,,FALSE,2.005904348,FALSE
+Income Statement,Diluted shares,2020,1158.5,Diluted shares,-0.0227752,FALSE,0.422295652,FALSE
+Income Statement,Diluted shares,2021,1151.3,Diluted shares,-0.006214933,FALSE,0,FALSE
+Income Statement,Diluted shares,2022,1137.3,Diluted shares,-0.012160167,FALSE,-0.821130435,FALSE
+Income Statement,Diluted shares,2023,1139.8,Diluted shares,0.002198189,FALSE,-0.6745,FALSE
+Income Statement,EBIT,2019,4872.1,EBIT,,FALSE,0,FALSE
+Income Statement,EBIT,2020,4617.8,EBIT,-0.052195152,FALSE,-0.319592603,FALSE
+Income Statement,EBIT,2021,5870.8,EBIT,0.271341331,FALSE,1.255120458,FALSE
+Income Statement,EBIT,2022,5408.8,EBIT,-0.078694556,FALSE,0.6745,FALSE
+Income Statement,EBIT,2023,2936.6,EBIT,-0.45706996,FALSE,-2.432447829,FALSE
+Income Statement,EBITDA,2019,6313.8,EBITDA,,FALSE,0,FALSE
+Income Statement,EBITDA,2020,6065.7,EBITDA,-0.039294878,FALSE,-0.275417133,FALSE
+Income Statement,EBITDA,2021,7233.4,EBITDA,0.192508696,FALSE,1.020852864,FALSE
+Income Statement,EBITDA,2022,6921.4,EBITDA,-0.043133243,FALSE,0.6745,FALSE
+Income Statement,EBITDA,2023,4621.3,EBITDA,-0.332317161,FALSE,-1.878853275,FALSE
+Income Statement,EBITDA Margin,2019,0.217263236,EBITDA Margin,,FALSE,1.79637404,FALSE
+Income Statement,EBITDA Margin,2020,0.188081971,EBITDA Margin,-0.134312944,FALSE,-0.224573946,FALSE
+Income Statement,EBITDA Margin,2021,0.201064055,EBITDA Margin,0.069023539,FALSE,0.6745,FALSE
+Income Statement,EBITDA Margin,2022,0.191324683,EBITDA Margin,-0.048439148,FALSE,0,FALSE
+Income Statement,EBITDA Margin,2023,0.124280612,EBITDA Margin,-0.350420394,FALSE,-4.643135955,TRUE
+Income Statement,EBT,2019,5356.9,EBT,,FALSE,0.604288341,FALSE
+Income Statement,EBT,2020,4231.9,EBT,-0.21000952,FALSE,-1.151003123,FALSE
+Income Statement,EBT,2021,5401.9,EBT,0.276471561,FALSE,0.6745,FALSE
+Income Statement,EBT,2022,4969.6,EBT,-0.080027398,FALSE,0,FALSE
+Income Statement,EBT,2023,2507.3,EBT,-0.495472473,FALSE,-3.841825931,FALSE
+Income Statement,Gross Profit,2019,20321.9,Gross profit,,FALSE,-2.983205898,FALSE
+Income Statement,Gross Profit,2020,21932.9,Gross profit,0.079274084,FALSE,-1.850956757,FALSE
+Income Statement,Gross Profit,2021,24566.5,Gross profit,0.120075321,FALSE,0,FALSE
+Income Statement,Gross Profit,2022,24995.6,Gross profit,0.017466876,FALSE,0.301581692,FALSE
+Income Statement,Gross Profit,2023,25526.2,Gross profit,0.021227736,FALSE,0.6745,FALSE
+Income Statement,Interest expense,2019,-469.8,Interest expense,,FALSE,2.531113402,FALSE
+Income Statement,Interest expense,2020,-482.9,Interest expense,0.027884206,FALSE,2.075652062,FALSE
+Income Statement,Interest expense,2021,-550.1,Interest expense,0.139159246,FALSE,-0.260760309,FALSE
+Income Statement,Interest expense,2022,-562,Interest expense,0.02163243,FALSE,-0.6745,FALSE
+Income Statement,Interest expense,2023,-542.6,Interest expense,-0.034519573,FALSE,0,FALSE
+Income Statement,Labor / Store Opex,2019,-11930.9,Store opex,,FALSE,1.624039965,FALSE
+Income Statement,Labor / Store Opex,2020,-13561.8,Store opex,0.136695471,FALSE,0.6745,FALSE
+Income Statement,Labor / Store Opex,2021,-14720.3,Store opex,0.085423764,FALSE,0,FALSE
+Income Statement,Labor / Store Opex,2022,-15286.5,Store opex,0.03846389,FALSE,-0.32965205,FALSE
+Income Statement,Labor / Store Opex,2023,-17058.9,Store opex,0.115945442,FALSE,-1.361575917,FALSE
+Income Statement,Net Income,2019,4199.3,Net income,,FALSE,0.6745,FALSE
+Income Statement,Net Income,2020,3281.6,Net income,-0.218536423,FALSE,-0.737426665,FALSE
+Income Statement,Net Income,2021,4124.5,Net income,0.256856412,FALSE,0.559416515,FALSE
+Income Statement,Net Income,2022,3760.9,Net income,-0.08815614,FALSE,0,FALSE
+Income Statement,Net Income,2023,1856.4,Net income,-0.506394746,FALSE,-2.930167085,FALSE
+Income Statement,Other Opex / SG&A,2019,-359.5,Other opex,,FALSE,-0.577282943,FALSE
+Income Statement,Other Opex / SG&A,2019,1932.6,G&A,-6.375799722,FALSE,0.577282943,FALSE
+Income Statement,Other Opex / SG&A,2020,-461.5,Other opex,-1.238797475,FALSE,-0.628661906,FALSE
+Income Statement,Other Opex / SG&A,2020,2032,G&A,-5.403033586,FALSE,0.627352246,FALSE
+Income Statement,Other Opex / SG&A,2021,-539.4,Other opex,-1.265452756,FALSE,-0.667901329,FALSE
+Income Statement,Other Opex / SG&A,2021,2441.3,G&A,-5.525954765,FALSE,0.833522927,FALSE
+Income Statement,Other Opex / SG&A,2022,-565.6,Other opex,-1.231679843,FALSE,-0.681098671,FALSE
+Income Statement,Other Opex / SG&A,2022,2523.3,G&A,-5.461280057,FALSE,0.874827583,FALSE
+Income Statement,Other Opex / SG&A,2023,-584.6,Other opex,-1.231680736,FALSE,-0.690669262,FALSE
+Income Statement,Other Opex / SG&A,2023,2617.2,G&A,-5.476907287,FALSE,0.922126452,FALSE
+Income Statement,Restructuring,2019,170.4,Restructuring,,FALSE,0.564655451,FALSE
+Income Statement,Restructuring,2020,46,Restructuring,-0.730046948,FALSE,-0.564655451,FALSE
+Income Statement,Restructuring,2021,21.8,Restructuring,-0.526086957,FALSE,-0.784344549,FALSE
+Income Statement,Restructuring,2022,,Restructuring,0,TRUE,,FALSE
+Income Statement,Restructuring,2023,892,Restructuring,39.91743119,FALSE,7.115384926,TRUE
+Income Statement,Revenue,2019,29060.6,Revenue,,FALSE,-3.858510506,FALSE
+Income Statement,Revenue,2020,32250.3,Revenue,0.109760294,FALSE,-2.078685349,FALSE
+Income Statement,Revenue,2021,35975.6,Revenue,0.115512104,FALSE,0,FALSE
+Income Statement,Revenue,2022,36176.2,Revenue,0.005576002,FALSE,0.111933074,FALSE
+Income Statement,Revenue,2023,37184.4,Revenue,0.027869152,FALSE,0.6745,FALSE
+Income Statement,Taxes,2019,-1156.6,Taxes,,FALSE,0,FALSE
+Income Statement,Taxes,2020,-948.5,Taxes,-0.179923915,FALSE,1.163876036,FALSE
+Income Statement,Taxes,2021,-1277.2,Taxes,0.34654718,FALSE,-0.6745,FALSE
+Income Statement,Taxes,2022,-1207.3,Taxes,-0.054729095,FALSE,-0.283558458,FALSE
+Income Statement,Taxes,2023,-650.6,Taxes,-0.461111571,FALSE,2.829991708,FALSE
+KPI,Active rewards members,2019,,Active rewards members,,TRUE,,FALSE
+KPI,Active rewards members,2020,,Active rewards members,,TRUE,,FALSE
+KPI,Active rewards members,2021,,Active rewards members,,TRUE,,FALSE
+KPI,Active rewards members,2022,,Active rewards members,,TRUE,,FALSE
+KPI,Active rewards members,2023,,Active rewards members,,TRUE,,FALSE
+KPI,Company stores,2019,17133,Company stores,,FALSE,-1.163110449,FALSE
+KPI,Company stores,2020,18253,Company stores,0.065370922,FALSE,-0.633348878,FALSE
+KPI,Company stores,2021,19592,Company stores,0.073357804,FALSE,0,FALSE
+KPI,Company stores,2022,21018,Company stores,0.07278481,FALSE,0.6745,FALSE
+KPI,Company stores,2023,21514,Company stores,0.02359882,FALSE,0.909108696,FALSE
+KPI,Global comps %,2019,0.2,Global comps %,,FALSE,0.899333333,FALSE
+KPI,Global comps %,2020,0.08,Global comps %,-0.6,FALSE,0,FALSE
+KPI,Global comps %,2021,0.08,Global comps %,0,FALSE,0,FALSE
+KPI,Global comps %,2022,-0.02,Global comps %,-1.25,FALSE,-0.749444444,FALSE
+KPI,Global comps %,2023,-0.01,Global comps %,-0.5,FALSE,-0.6745,FALSE
+KPI,International comps %,2019,0.16,International comps %,,FALSE,2.1584,FALSE
+KPI,International comps %,2020,-0.09,International comps %,-1.5625,FALSE,-1.2141,FALSE
+KPI,International comps %,2021,0.05,International comps %,-1.555555556,FALSE,0.6745,FALSE
+KPI,International comps %,2022,-0.04,International comps %,-1.8,FALSE,-0.5396,FALSE
+KPI,International comps %,2023,0,International comps %,-1,FALSE,0,FALSE
+KPI,Intl margin %,2019,0.197,Intl margin %,,FALSE,1.199111111,FALSE
+KPI,Intl margin %,2020,0.122,Intl margin %,-0.38071066,FALSE,-0.6745,FALSE
+KPI,Intl margin %,2021,0.152,Intl margin %,0.245901639,FALSE,0.074944444,FALSE
+KPI,Intl margin %,2022,0.149,Intl margin %,-0.019736842,FALSE,0,FALSE
+KPI,Intl margin %,2023,0.108,Intl margin %,-0.275167785,FALSE,-1.024240741,FALSE
+KPI,Licensed stores,2019,16700,Licensed stores,,FALSE,-1.191980769,FALSE
+KPI,Licensed stores,2020,17458,Licensed stores,0.045389222,FALSE,-0.6745,FALSE
+KPI,Licensed stores,2021,18446,Licensed stores,0.056592966,FALSE,0,FALSE
+KPI,Licensed stores,2022,19181,Licensed stores,0.039846037,FALSE,0.501778846,FALSE
+KPI,Licensed stores,2023,19476,Licensed stores,0.015379803,FALSE,0.703173077,FALSE
+KPI,NA margin %,2019,0.218,NA margin %,,FALSE,0.6745,FALSE
+KPI,NA margin %,2020,0.186,NA margin %,-0.146788991,FALSE,-0.021758065,FALSE
+KPI,NA margin %,2021,0.232,NA margin %,0.247311828,FALSE,0.979112903,FALSE
+KPI,NA margin %,2022,0.187,NA margin %,-0.193965517,FALSE,0,FALSE
+KPI,NA margin %,2023,0.045,NA margin %,-0.759358289,FALSE,-3.089645161,FALSE
+KPI,Operating margin %,2019,0.168,Operating margin %,,FALSE,0.933923077,FALSE
+KPI,Operating margin %,2020,0.143,Operating margin %,-0.148809524,FALSE,-0.363192308,FALSE
+KPI,Operating margin %,2021,0.163,Operating margin %,0.13986014,FALSE,0.6745,FALSE
+KPI,Operating margin %,2022,0.15,Operating margin %,-0.079754601,FALSE,0,FALSE
+KPI,Operating margin %,2023,0.079,Operating margin %,-0.473333333,FALSE,-3.683807692,FALSE
+KPI,Total stores,2019,33833,Total stores,,FALSE,-1.218853674,FALSE
+KPI,Total stores,2020,35711,Total stores,0.055507936,FALSE,-0.6745,FALSE
+KPI,Total stores,2021,38038,Total stores,0.065161995,FALSE,0,FALSE
+KPI,Total stores,2022,40199,Total stores,0.056811609,FALSE,0.626383541,FALSE
+KPI,Total stores,2023,40990,Total stores,0.019677106,FALSE,0.855661367,FALSE
+KPI,U.S. comps %,2019,0.22,U.S. comps %,,FALSE,0.797136364,FALSE
+KPI,U.S. comps %,2020,0.12,U.S. comps %,-0.454545455,FALSE,0.183954545,FALSE
+KPI,U.S. comps %,2021,0.09,U.S. comps %,-0.25,FALSE,0,FALSE
+KPI,U.S. comps %,2022,-0.02,U.S. comps %,-1.222222222,FALSE,-0.6745,FALSE
+KPI,U.S. comps %,2023,-0.02,U.S. comps %,0,FALSE,-0.6745,FALSE
